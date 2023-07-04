@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.btn{
+    @apply hover:bg-red-600 hover:underline hover:rounded-lg hover:cursor-pointer
+}

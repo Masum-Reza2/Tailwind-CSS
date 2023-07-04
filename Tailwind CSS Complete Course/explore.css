@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+.btn{
+    @apply m-7 p-2 rounded-lg bg-indigo-500 
+}
+@tailwind utilities;
